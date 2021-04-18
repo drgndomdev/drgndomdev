@@ -2,7 +2,7 @@
 
 # I am currently studying Software Engineering and improving my coding skills.
 
-https://github-profile-trophy.vercel.app/?username=DARAEDom&theme=nord
+
 
 **Coding Skills**:
 - Favourite: Python
