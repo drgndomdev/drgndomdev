@@ -2,7 +2,7 @@
 
 # I am currently studying Software Engineering and improving my coding skills.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DARAEDom&theme=nord&title=Commit)]
+![trophy](https://github-profile-trophy.vercel.app/?username=DARAEDom&theme=nord&title=Commit)
 
 
 **Coding Skills**:
