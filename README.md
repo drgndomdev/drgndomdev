@@ -1,11 +1,14 @@
 <div align="center">
-### Hello there 👋
+<h1> Hello there 👋 <h1>
 
 
-# I am currently studying Software Engineering and improving my coding skills.
-<div align="left">
+  <h4>My name is Dominik,</h4>
+  <h4>I am a Software Engineering Student,</h4> 
+  <h4>I like programming and experimenting with code.</h4>
+</div>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=DARAEDom&theme=nord&title=Commit)
-  </div>
+
 
 **Coding Skills**:
 - Favourite: Python
@@ -23,4 +26,4 @@ Technologies I have used:
 **Goals for 2021:**
 - Contribute to Open-source project
 - Achieve 600+ commits this year
-</div>
+
