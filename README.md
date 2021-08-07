@@ -3,9 +3,9 @@
 
 
 # I am currently studying Software Engineering and improving my coding skills.
-
+<div align="left">
 ![trophy](https://github-profile-trophy.vercel.app/?username=DARAEDom&theme=nord&title=Commit)
-
+  </div>
 
 **Coding Skills**:
 - Favourite: Python
