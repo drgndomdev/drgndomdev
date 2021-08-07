@@ -1,4 +1,6 @@
+<div align="center">
 ### Hello there 👋
+
 
 # I am currently studying Software Engineering and improving my coding skills.
 
@@ -21,3 +23,4 @@ Technologies I have used:
 **Goals for 2021:**
 - Contribute to Open-source project
 - Achieve 600+ commits this year
+</div>
