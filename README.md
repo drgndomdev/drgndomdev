@@ -9,4 +9,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DomDEV8&theme=nord&title=Commit)
 ![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomDEV8&theme=algolia&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomDEV8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomDEV8&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats)
