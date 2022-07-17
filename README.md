@@ -2,9 +2,9 @@
 <h2> Hello there 👋 </h2>
 
 
-  <h4>My name is Dominik,</h4>
-  <h5>I am a Software Engineering Graduate,</h5> 
-  <h5>I like programming and experimenting with code.</h5>
+  <h4>Nice to see you here</h4>
+  <h5>I am a Software Engineering Graduate</h5> 
+  <h5>I am open to collaborations, let me know by reaching me out by email</h5>
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DomDEV8&theme=nord&title=Commit)
