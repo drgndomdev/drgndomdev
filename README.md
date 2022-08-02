@@ -1,3 +1,4 @@
+![Banner](https://github.com/drgndomdev/DomDEV8/blob/master/assets/Git%20banner.gif)
 <div align="center">
 <h2> Hello there 👋 </h2>
 
@@ -6,7 +7,7 @@
   <h5>I am a Software Engineering Graduate</h5> 
   <h5>I am open to collaborations, let me know by reaching me out by email</h5>
 </div>
-![Banner](https://github.com/drgndomdev/DomDEV8/blob/master/assets/Git%20banner.gif)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=drgndomdev&theme=nord&title=Commit)
 ![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=drgndomdev&theme=algolia&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drgndomdev&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
