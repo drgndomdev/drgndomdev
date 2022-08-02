@@ -7,9 +7,9 @@
   <h5>I am open to collaborations, let me know by reaching me out by email</h5>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DomDEV8&theme=nord&title=Commit)
-![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomDEV8&theme=algolia&show_icons=true) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomDEV8&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
+![trophy](https://github-profile-trophy.vercel.app/?username=drgndomdev8&theme=nord&title=Commit)
+![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=drgndomdev8&theme=algolia&show_icons=true) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drgndomdev8&layout=compact&theme=algolia&exclude=.vim)](https://github.com/anuraghazra/github-readme-stats) <br>
 Operating systems 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000?logo=Raspberry-Pi) Rpi colour c7053d
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?logo=Ubuntu)
