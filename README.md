@@ -2,8 +2,18 @@
 <div align="center">
   <h2> About me! 👇 </h2>
 </div>
-<h5> I am a recent graduate in Software Engineering from Solent University in Southampton! </h5>
-<h5> I was working on several projects that involved Machine Learning, Data Science and Back-end development! </h5>
+
+##### I am a recent graduate in Software Engineering from Solent University!
+
+##### You can find some of my projects here or on [GitLabs](https://gitlab.com/DARAEDom)
+
+##### I was working on several projects that involved Machine Learning, Data Science and Back-end development! 
+
+##### Currently I am working on C++ skills and SQL. 
+
+##### If you want to reach out to me do it through [LinkedIn](https://www.linkedin.com/in/dominik-romanek-189aa3194/)
+
+
 
 <br><br><br>
 <div align="center">
